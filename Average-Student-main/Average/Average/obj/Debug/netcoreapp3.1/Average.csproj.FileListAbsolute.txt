@@ -1,0 +1,14 @@
+D:\apiwat งานหน้าหมี\Average\Average\bin\Debug\netcoreapp3.1\Average.exe
+D:\apiwat งานหน้าหมี\Average\Average\bin\Debug\netcoreapp3.1\Average.deps.json
+D:\apiwat งานหน้าหมี\Average\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.json
+D:\apiwat งานหน้าหมี\Average\Average\bin\Debug\netcoreapp3.1\Average.runtimeconfig.dev.json
+D:\apiwat งานหน้าหมี\Average\Average\bin\Debug\netcoreapp3.1\Average.dll
+D:\apiwat งานหน้าหมี\Average\Average\bin\Debug\netcoreapp3.1\Average.pdb
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\netcoreapp3.1\Average.csproj.AssemblyReference.cache
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\netcoreapp3.1\Average.GeneratedMSBuildEditorConfig.editorconfig
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfoInputs.cache
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\netcoreapp3.1\Average.AssemblyInfo.cs
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\netcoreapp3.1\Average.csproj.CoreCompileInputs.cache
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\netcoreapp3.1\Average.dll
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\netcoreapp3.1\Average.pdb
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\netcoreapp3.1\Average.genruntimeconfig.cache

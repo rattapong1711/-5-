@@ -1,0 +1,15 @@
+D:\apiwat งานหน้าหมี\Average\Average\bin\Debug\net6.0-windows\Average.exe
+D:\apiwat งานหน้าหมี\Average\Average\bin\Debug\net6.0-windows\Average.deps.json
+D:\apiwat งานหน้าหมี\Average\Average\bin\Debug\net6.0-windows\Average.runtimeconfig.json
+D:\apiwat งานหน้าหมี\Average\Average\bin\Debug\net6.0-windows\Average.dll
+D:\apiwat งานหน้าหมี\Average\Average\bin\Debug\net6.0-windows\Average.pdb
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\net6.0-windows\Average.csproj.AssemblyReference.cache
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\net6.0-windows\Average.GeneratedMSBuildEditorConfig.editorconfig
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\net6.0-windows\Average.AssemblyInfoInputs.cache
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\net6.0-windows\Average.AssemblyInfo.cs
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\net6.0-windows\Average.csproj.CoreCompileInputs.cache
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\net6.0-windows\Average.dll
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\net6.0-windows\refint\Average.dll
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\net6.0-windows\Average.pdb
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\net6.0-windows\Average.genruntimeconfig.cache
+D:\apiwat งานหน้าหมี\Average\Average\obj\Debug\net6.0-windows\ref\Average.dll
